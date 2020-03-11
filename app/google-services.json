@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927639745049",
+    "firebase_url": "https://foodorder-elliik.firebaseio.com",
+    "project_id": "foodorder-elliik",
+    "storage_bucket": "foodorder-elliik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927639745049:android:2e2459f9a54eacf103f088",
+        "android_client_info": {
+          "package_name": "ranggacikal.com.chatbotfoodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927639745049-4j7tao2qp07ck1q6ie6evtdfn1rrfo89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ranggacikal.com.chatbotfoodorder",
+            "certificate_hash": "0e2742e48c6ab40e26b9dc1c97232a66fbcd6aae"
+          }
+        },
+        {
+          "client_id": "927639745049-rfvbgi9bsjt4127cfia600ap98vtj0l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLRxWuzL4fFAA6ww3Km__ti-eg6D8pACE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927639745049-rfvbgi9bsjt4127cfia600ap98vtj0l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
